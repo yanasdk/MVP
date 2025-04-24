@@ -3,8 +3,8 @@ from aiogram.utils import executor
 import logging
 
 # Настройки
-API_TOKEN = '7652002226:AAHGsWpYqkM5yInsOrAAmPb4YS3CrgDg2b4'  # Замените на реальный токен
-LANDING_URL = 'https://v0-build-something-zeta.vercel.app'  # Ваш URL лендинга
+#API_TOKEN = '7652002226:AAHGsWpYqkM5yInsOrAAmPb4YS3CrgDg2b4'  # Замените на реальный токен
+#LANDING_URL = 'https://v0-build-something-zeta.vercel.app'  # Ваш URL лендинга
 
 # Инициализация
 bot = Bot(token=API_TOKEN)
